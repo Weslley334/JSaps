@@ -1,3 +1,7 @@
+//Weslley Balbino dos Santos - 2024100565
+//Java Script
+//Turma 963R
+
 function isPrime(num) {
     if (num <= 1) return false;
     if (num <= 3) return true;
